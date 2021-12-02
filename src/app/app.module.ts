@@ -1,4 +1,3 @@
-import { InMemoryData } from './shared/in-memory-data';
 import { SignupComponent } from './../component/signup/signup.component';
 import { ReportsComponent } from './../component/Reports/Reports.component';
 import { LoginComponent } from './../component/login/login.component';
@@ -12,10 +11,6 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { MatGridListModule } from '@angular/material/grid-list';
 import { MatCardModule } from '@angular/material/card';
-import { HttpClientModule } from '@angular/common/http';
-import { HttpClientInMemoryWebApiModule } from 'angular-in-memory-web-api';
-
-
 import { routing } from './app.routing.module';
 import { GameComponent } from 'src/component/game/game.component';
 import { Game2Component } from 'src/component/game2/game.component';
@@ -82,8 +77,6 @@ import { Game21Component } from 'src/component/game21/game.component';
     MatGridListModule,
     MatCardModule,
     routing,
-    HttpClientModule,
-    HttpClientInMemoryWebApiModule.forRoot(InMemoryData)
   ],
   providers: [],
   bootstrap: [AppComponent],
