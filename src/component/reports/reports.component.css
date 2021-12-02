@@ -1,0 +1,42 @@
+.titulo {
+  height: 200px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.3em;
+  margin-left: 18px;
+  margin-top: 30px;
+  margin-bottom: 80x;
+  text-transform: uppercase;
+  color: #f26234;
+}
+
+.card {
+  max-width: 300px;
+  margin-left: 6px;
+  text-align: center;
+  background-color: none;
+}
+
+.voltar {
+  margin-top: 50px;
+  margin-left: 60px;
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+}
+
+.title{
+  font-size: 30px;
+  letter-spacing: 0.2em;
+  margin-top: 10px;
+  line-height: 40px;
+}
+
+.subtitle{
+  font-size: 20px;
+  letter-spacing: 0.1em;
+}

@@ -1,0 +1,61 @@
+.tituloI {
+  height: 200px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 40px;
+  display:flow-root;
+  line-height: 60px;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.3em;
+  margin-left: 0px;
+  margin-top: 10px;
+  text-transform: uppercase;
+  color: #f2f2f2;
+}
+
+.imagem{
+  margin-left: 120px;
+}
+
+.messageI {
+  margin-top: 20px;
+  margin-left: 60px;
+  padding-top: 0px;
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  background-color:green
+}
+
+.messageII {
+  margin-top: 20px;
+  margin-left: 10px;
+  padding-top: 0px;
+  font-size: 30px;
+  text-align:justify;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  background-color: red;
+}
+
+.botaoI{
+  margin-top: 40px;
+  margin-left: 50px;
+  padding-top: 0px;
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  background: none;
+}
+
+.botaoII {
+  margin-top: 60px;
+  margin-left: 90px;
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+}

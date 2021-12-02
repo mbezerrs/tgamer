@@ -1,0 +1,60 @@
+
+.tituloI {
+  height: 200px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 30px;
+  display:flow-root;
+  line-height: 40px;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.3em;
+  margin-left: 0px;
+  margin-top: 10px;
+  text-transform: uppercase;
+  color: #f26234;
+}
+
+.game {
+  align-items: center;
+  margin-left: 140px;
+  margin-bottom: 10px;
+  margin-top: 30px;
+}
+
+.reports {
+  align-items: center;
+  margin-left: 140px;
+  margin-bottom: 10px;
+  margin-top: 30px;
+}
+
+.botaoII {
+  margin-top: 40px;
+  margin-left: 115px;
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+}
+
+.messageI {
+  margin-top: 0px;
+  margin-left: 100px;
+  padding-top: 0px;
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  background: none;
+}
+
+.messageII {
+  margin-top: 0px;
+  margin-left: 50px;
+  padding-top: 0px;
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  background: none;
+}
